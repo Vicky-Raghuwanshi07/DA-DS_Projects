@@ -28,5 +28,5 @@
       - You can see a text box where you have to enter the city/state name for which you need to see the temperature (in Celsisus).
 
       ### App Screenshot : 
-      ![final_img](https://user-images.githubusercontent.com/74697810/183638669-32b9fb22-73aa-409d-8674-154ea0b60288.png=250x250)
+      ![final_img](https://user-images.githubusercontent.com/74697810/183638669-32b9fb22-73aa-409d-8674-154ea0b60288.png =250x250)
 
