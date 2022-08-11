@@ -4,6 +4,8 @@
   - ### **Analysis on Corona Virus using SQL**
 
   - ### **Weather Application using Tkinter**
+  
+  - ### **Know Your Music Taste using Spotify Developer API**
 
 
 ## Detailed Description :-
@@ -15,7 +17,7 @@
       - Initially I have find the total test cases in India as well as in US.
       - Next I have find the _Death Percentage_ (Total Cases vs Total Death) in India.
       
-
+&nbsp;
 
   2. Weather Application using Tkinter
       - In this project I have created a Weather application using Python GUI toolkit **Tkinter**.
@@ -30,3 +32,14 @@
       ### App Screenshot : 
       ![final_img](https://user-images.githubusercontent.com/74697810/183638669-32b9fb22-73aa-409d-8674-154ea0b60288.png)
 
+&nbsp;
+
+  3. Know Your Music Taste using Spotify Developer API
+      - This project uses [Spotify Developer API](https://developer.spotify.com/) 
+      - Here first I have created a playlist in my Spotify account for testing and implementing this project.
+      - Extracting main features to summarize the user taste of music.
+      - You can clone this repo and for this project you can install all packages using the requirements.txt
+      ```
+        $ pip install -r requirements.txt
+      ```
+      ![Spotify API](https://developer.spotify.com/assets/WebAPI_intro.png)
