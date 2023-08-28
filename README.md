@@ -42,4 +42,4 @@
       ```
         $ pip install -r requirements.txt
       ```
-      ![Spotify API](https://developer.spotify.com/assets/WebAPI_intro.png)
+      ![Spotify API](https://miro.medium.com/v2/resize:fit:1400/1*uioxD3lroyjNCAap_him1g.png)
